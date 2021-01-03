@@ -12,7 +12,7 @@
 
 ##### Terminal 
 
-`where *nameofprogram*` -----> This command show the path of programs on you machine
+`where _nameofprogram_` -----> This command show the path of programs on you machine
 
-`cat *pathtofile*`
+`cat _pathtofile_`
 
